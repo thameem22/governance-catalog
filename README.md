@@ -38,6 +38,11 @@ These files will let a reviewer exercise the catalog without installing database
 
 The first end-to-end demonstration will start with local metadata files and finish with a user browsing a permitted data product, following a lineage edge and finding a related concept in another domain. Live source connections are a future extension.
 
+
+## Maintainer
+
+I’m Thameem Ansari (@thameem22), the creator and maintainer of Governance Catalog. I’m designing it to help data teams trace how company and geography datasets relate across sources.
+
 ## Licence
 
 [Apache License 2.0](LICENSE)
